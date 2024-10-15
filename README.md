@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LocalCatEnjoyer
+- 👀 I’m interested in games
+- 🌱 I’m currently learning C#
+- 😄 Pronouns: She/Her
